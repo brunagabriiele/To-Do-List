@@ -1,0 +1,23 @@
+body {
+    background: rgb(232, 230, 230);
+  } 
+
+
+.container {
+    width: 40%;
+    margin-top: 20px auto 0px auto;
+
+}
+
+.removed {
+    color: gray;
+}
+
+.removed label {
+    text-decoration: line-through;
+}
+
+ul li {
+    list-style: none;
+}
+
